@@ -1,10 +1,14 @@
 function X = searchlight_nirs(id, distance_rank, ch_co)
 % Inputing channel's id, coordinates and distance rank(1,2,3), calculates the
 % nearest channle set for each channel within limited distance.
-% ch_co should be a matriax which first column is channel's id, second and
-% thrid columns are 2-D coordinates of each channel, and the last column is
-% the id of channel-sets it belongs to.
-% rank1 = 0.707*unit; rank2 = 1*unit; rank3 = 1.414*unit;
+% Args:
+%     id: the id of target channel in ch_co
+%     ch_co: a matriax contains spatial information of channels. which first
+%         column is channel's id, second and thrid columns are 2-D coordinates
+%         of each channel, and the last column is the id of channel-sets it 
+%         belongs to.
+%     distance_rank: rank1 = 0.707*unit; rank2 = 1*unit; rank3 = 1.414*unit;
+% by Siyuan Zhou, 2020.8
 
 
 id_set = ch_co(id,4);
