@@ -1,0 +1,50 @@
+
+October 27, 2020, 20:46:05
+Running Homer3 v1.25.2
+
+====
+RAM:
+====
+Total     : 42.8 GB
+Available : 30.1 GB
+
+Opened application config file C:/Users/49770/Documents/Nutstore/matlab_library/Homer3-master/AppSettings.cfg
+
+MainGUI: October 27, 2020, 20:46:06 -  Will load group folder #1 - C:/Users/49770/Documents/Nutstore/
+
+Current GroupClass version 1.2
+Current GroupClass version 1.2
+
+Added group Nutstore to dataTree.
+   Added subject space014_part_1 to group Nutstore.
+   Added subject space015_part_1 to group Nutstore.
+
+Loaded acquisition data in 1.3 seconds
+
+Saved group data, version 1.2 exists
+Loaded data set in 2.9 seconds
+Loaded saved registry C:/Users/49770/Documents/Nutstore/matlab_library/Homer3-master/FuncRegistry/UserFunctions/Registry.mat
+Displaying channels [] in data blocks [1]
+
+Logger: Chapter 1
+
+MainGUI: October 27, 2020, 20:46:13 - Startup time - 7.2 seconds
+
+Current GroupClass version 1.2
+Current GroupClass version 1.2
+Processing iGroup=1, iSubj=1, iRun=1
+Saving group 1 in C:/Users/49770/Documents/Nutstore/groupResults.mat
+Saving processed data in C:/Users/49770/Documents/Nutstore/groupResults.mat
+Auto-saving processing results ...
+Current GroupClass version 1.2
+Completed saving groupResults.mat for all groups in 2.214 seconds.
+Displaying channels [] in data blocks [1]
+Displaying channels [] in data blocks [1]
+Processing iGroup=1, iSubj=2, iRun=1
+Saving group 1 in C:/Users/49770/Documents/Nutstore/groupResults.mat
+Saving processed data in C:/Users/49770/Documents/Nutstore/groupResults.mat
+Auto-saving processing results ...
+Current GroupClass version 1.2
+Completed saving groupResults.mat for all groups in 2.586 seconds.
+Displaying channels [] in data blocks [1]
+Current GroupClass version 1.2
